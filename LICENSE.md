@@ -1,4 +1,4 @@
-# 
+# vip dexscreener sniper bot | MEV-detection + new-token-detection offers the most advanced dexscreener sniper bot, with MEV-detection and new-token-detection. Ideal for
 
 
 
